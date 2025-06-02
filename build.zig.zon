@@ -1,0 +1,13 @@
+.{
+    .name = .ghdbg,
+
+    .version = "0.0.0",
+
+    .fingerprint = 0xd8611d8eff748a97,
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
