@@ -6,6 +6,7 @@
     .fingerprint = 0xd8611d8eff748a97,
 
     .paths = .{
+        ".gitignore",
         "build.zig",
         "build.zig.zon",
         "src",
